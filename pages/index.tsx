@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <title>WEB!</title>
       </Head>
-      <h2>Welcome</h2>
+      <h2>Welcome V2</h2>
       Hello, World!
     </>
   );
